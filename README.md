@@ -16,6 +16,6 @@ Running LDpred-
 ldpred score --gf Human610-Quadv1HRC.rsid.bmi --rf EUR-Locke-BMI-HH3.weight --out EUR-LOK-BMI-score --pf Human610-Quadv1HRC.rsid.bmi.fam  --pf-format FAM --rf-format LDPRED --summary-file predictions-eur-bmi
 
 
-More detailed are avaible in the file “instructionsIRS-LDpred-v4PatrickMSleiman.docx”.
+More details are avaible in the file “instructionsIRS-LDpred-v4PatrickMSleiman.docx”.
 
 The published paper will be linked here
