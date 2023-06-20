@@ -18,4 +18,4 @@ ldpred score --gf Human610-Quadv1HRC.rsid.bmi --rf EUR-Locke-BMI-HH3.weight --ou
 
 Additional details can be found in the file “instructionsIRS-LDpred-v4PatrickMSleiman.docx”.
 
-The link to the published paper will be provided here.
+The link to the published paper: https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.1291 
